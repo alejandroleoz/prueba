@@ -1,1 +1,2 @@
 Esto es parte del feature 1
+Otra cosa de feature 1
